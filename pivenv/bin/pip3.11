@@ -1,4 +1,4 @@
-#!/home/DiscordPi/code/discord_bots/Frank-Reynolds-Bot/pivenv/bin/python3
+#!/home/DiscordPi/code/discord_bots/Frank-Reynolds-Bot/pivenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
